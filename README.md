@@ -29,10 +29,10 @@
 <!-- section - intro -->
 
 
-# ❤ to Develop - Associate Software Engineer || Web Developer || Competitive Coder || Machine Learning Enthusiastic !
+# ❤ to Develop - Software Development Engineer 1 || Web Developer || Competitive Coder || Big Data Developer !
 
 
-Hi, I'm Piyush Taneja — a ** Associate Software engineer** at **ClearTrail Technologies**  ✌💖
+Hi, I'm Piyush Taneja — a ** Software Developemnt Engineer 1** at **Sigmoid Analytics**  ✌💖
 
 <!-- section - intro -->
 
@@ -65,7 +65,9 @@ Python . JavaScript . C++ . Java
 
 ## On the job .. 💯
 
-> Associate Software Engineer - [**ClearTrail Technologies**](https://clear-trail.com)  ⭐
+> Software Development Engineer 1 - [**Sigmoid Analytics**](https://sigmoid.com)  ⭐
+
+> Associate Software Engineer - [**ClearTrail Technologies**](https://clear-trail.com)
 
 > Backend Developer Intern - [**MothersonSumi INfotech & Design Limitedt**](https://www.mind-infotech.com/)
 
