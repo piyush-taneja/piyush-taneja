@@ -56,7 +56,7 @@ Thanks for reading about me. You can connect with me on ..
 <!-- section - social media icons -->
 [![linkedin piyush-taneja][1.1]][1]
 [![github piyush-taneja][2.1]][2]
-[![twitter ][3.1]][3]
+[![twitter piyushtaneja_26][3.1]][3]
 [![medium piyush_taneja][4.1]][4]
 [![stackoverflow piyush-taneja][5.1]][5]
 [![dev to piyush_taneja][6.1]][6]
